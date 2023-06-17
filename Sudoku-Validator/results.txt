@@ -1,0 +1,31 @@
+[Thread 1] Row 1: Invalid
+[Thread 2] Row 2: Valid
+[Thread 3] Row 3: Valid
+[Thread 4] Row 4: Valid
+[Thread 5] Row 5: Valid
+[Thread 6] Row 6: Valid
+[Thread 7] Row 7: Valid
+[Thread 8] Row 8: Valid
+[Thread 9] Row 9: Valid
+[Thread 10] Column 1: Invalid
+[Thread 11] Column 2: Valid
+[Thread 12] Column 3: Valid
+[Thread 13] Column 4: Valid
+[Thread 14] Column 5: Valid
+[Thread 15] Column 6: Valid
+[Thread 16] Column 7: Valid
+[Thread 17] Column 8: Valid
+[Thread 18] Column 9: Valid
+[Thread 19] Subgrid R123C123: Invalid
+[Thread 20] Subgrid R123C456: Valid
+[Thread 21] Subgrid R123C789: Valid
+[Thread 22] Subgrid R456C123: Valid
+[Thread 23] Subgrid R456C456: Valid
+[Thread 24] Subgrid R456C789: Valid
+[Thread 25] Subgrid R789C123: Valid
+[Thread 26] Subgrid R789C456: Valid
+[Thread 27] Subgrid R789C789: Valid
+Valid rows: 8
+Valid columns: 8
+Valid subgrids: 8
+This Sudoku solution is: Invalid
